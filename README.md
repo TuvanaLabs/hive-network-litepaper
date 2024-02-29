@@ -2,4 +2,4 @@
 Litepaper for Hive Network
 
 # Coming soon...
-https://tuvanalabs.com
+https://hivenetwork.ai
